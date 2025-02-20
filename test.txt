@@ -1,2 +1,0 @@
-# prm-lib-microservices
-Set of utils for SnapLogic automation for Arch2023
